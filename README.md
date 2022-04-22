@@ -8,20 +8,19 @@ This Bot has the following functionalities:
 - Audio files Comands
 - Greetings and opening server Commands
 
-
-### !kick
+# !kick
 Command to allows the admin to kick members
-### !ban
+# !ban
 Command to allows the admin to ban members
-### !join
+# !join
 Command to allow the bot to join the voice channel and play audio files from your pc
-### !leave
+# !leave
 Command to allow the bot to leave the voice channel
-### !pause
+# !pause
 Pause the audio file 
-### !resume
+# !resume
 Resume the audio file 
-### !play
+# !play
 Play the audio file 
 
 ### event greetings when joining the server 
