@@ -22,6 +22,7 @@ This Bot has the following functionalities:
 ## Installation Guide:
 
 **Tech used:**  Python, Discord Developer Portal, Cogs
+
 Open your terminal/cmd or windows powershell then run this command  `pip install discord.py`  Then create a discord application from <a href="https://discordapp.com/developers/applications">Developer Portal</a>,  and then open the  **Utility-Bot.py**  file and find TOKEN variable  replace your application's  **TOKEN**
 
 > TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'"
